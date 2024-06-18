@@ -75,7 +75,7 @@ const Footer = () => {
       </div>
 
       <div className="copyright">
-        &copy; 2024 MustafaEstate all rights reserved
+        &copy; 2024  El_Madeedy El_llory Real Estate all rights reserved
       </div>
     </div>
   );

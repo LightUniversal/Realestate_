@@ -25,17 +25,11 @@ const Footer = () => {
           <h3>quick link</h3>
           <ul>
             <li>
-              <a href="#">home</a>
+              <a href="/">home</a>
             </li>
-            <li>
-              <a href="#">rent</a>
-            </li>
-            <li>
-              <a href="#">sell</a>
-            </li>
-            <li>
-              <a href="#">about</a>
-            </li>
+            
+           
+            
             <li>
               <a href="tel:+2349132623281" className=" flex items-center gap-3">
                 <FaPhone /> 09132623281
@@ -48,16 +42,13 @@ const Footer = () => {
           <h3>about us</h3>
           <ul>
             <li>
-              <a href="#">payment place</a>
+              <a href="tel:+2349132623281" className=" flex items-center gap-3">payment place</a>
             </li>
             <li>
-              <a href="#">make saving more</a>
+              <a href="tel:+2349132623281" className=" flex items-center gap-3">make saving more</a>
             </li>
             <li>
-              <a href="#">tax calculator</a>
-            </li>
-            <li>
-              <a href="#">talk to us</a>
+              <a href="tel:+2349132623281" className=" flex items-center gap-3">talk to us</a>
             </li>
           </ul>
         </div>
